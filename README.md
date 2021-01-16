@@ -15,7 +15,7 @@
 
 1. 開啟終端機使用 git clone 下載檔案
 ```xml=
-git clone https://github.com/boa0306/restaurant_list
+git clone https://github.com/boa0306/restaurant-list
 ```
 2. 安裝 nodemon 套件
 ```xml=
