@@ -29,5 +29,3 @@ nodemon app.js
 ```xml=
 Express is listening on localhost:3000
 ```
-
-hello
