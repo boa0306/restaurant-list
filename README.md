@@ -1,4 +1,4 @@
-# 我的餐廳清單
+# 餐廳清單
 一個使用 Node.js, Express, Handlebars 所建立的美食網站
 
 ## 網站功能
